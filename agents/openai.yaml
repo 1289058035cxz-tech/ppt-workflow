@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 工作流"
+  short_description: "按模板规划内容、按需编写讲稿、双技能优化语言，并持续维护个人制作偏好"
+  default_prompt: "使用 $ppt-workflow，根据我的材料和排版要求推进 PPT 工作，并按需更新长期制作偏好。"
